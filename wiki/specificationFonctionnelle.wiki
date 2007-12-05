@@ -1,13 +1,9 @@
-#summary One-sentence summary of this page.
 #labels Phase-Requirements,Featured,Phase-Design
-Spécifications fonctionnelles du jeu de fanorona
+#Spécifications fonctionnelles du jeu de fanorona.
 = Introduction =
 Pour voir une présentation du jeu de fanorona. Voir le site http://jeuxstrategie.free.fr/Fanorona_complet.php
 
+= Détails =
+On va d'abord commencer par définir par les classes possibles :
 
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+*Joueur, Pion, Plateau, Case*
