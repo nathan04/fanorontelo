@@ -2,8 +2,7 @@
 #labels Phase-Requirements,Featured,Phase-Design
 Spécifications fonctionnelles du jeu de fanorona
 = Introduction =
-
-Add your content here.
+Pour voir une présentation du jeu de fanorona. Voir le site http://jeuxstrategie.free.fr/Fanorona_complet.php
 
 
 = Details =
