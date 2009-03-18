@@ -1,7 +1,13 @@
 package fr.free.rsimonfabrice;
 
 import java.util.Collection;
-
+/**
+ * 
+ * @author fabricerabarijaona
+ *$Rev$:     Revision of last commit
+ *$Author$:  Author of last commit
+ *$Date$:    Date of last commit
+ */
 public class Board {
 	Collection<Case> listCase;
 	Collection<Piece> listPiece;
