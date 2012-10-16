@@ -14,6 +14,7 @@ public class Fanorona {
 		System.out.println(listCase.size());
 		System.out.println("Liste des cases");
 		Iterator it=listCase.iterator();
+		Le trunk avance vraiment
 		while (it.hasNext())
 		{
 			Case caz =(Case)it.next();

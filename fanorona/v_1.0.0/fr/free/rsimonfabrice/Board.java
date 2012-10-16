@@ -22,5 +22,6 @@ public class Board {
 	}
 	public void setListPiece(Collection<Piece> listPiece) {
 		this.listPiece = listPiece;
+		Le trunk avance 
 	}
 }
