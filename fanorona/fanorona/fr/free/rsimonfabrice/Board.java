@@ -1,13 +1,7 @@
 package fr.free.rsimonfabrice;
 
 import java.util.Collection;
-/**
- * 
- * @author fabricerabarijaona
- *$Rev$:     Revision of last commit
- *$Author$:  Author of last commit
- *$Date$:    Date of last commit
- */
+
 public class Board {
 	Collection<Case> listCase;
 	Collection<Piece> listPiece;
@@ -22,7 +16,5 @@ public class Board {
 	}
 	public void setListPiece(Collection<Piece> listPiece) {
 		this.listPiece = listPiece;
-		Dernière minute de jeux;
-		Le trunk avance 
 	}
 }
